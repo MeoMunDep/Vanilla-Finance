@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY package*.json ./
 
-RUN npm install user-agents axios colors https-proxy-agent socks-proxy-agent ethers web3 crypto-js ws uuid xlsx readline-sync moment lodash
+RUN npm install user-agents axios colors https-proxy-agent socks-proxy-agent 
 
 COPY . .
 
