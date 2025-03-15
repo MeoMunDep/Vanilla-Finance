@@ -140,7 +140,7 @@ node meomundep.js
 1. Open **Command Prompt (CMD)**.
 2. Navigate to the bot folder:
    ```cmd
-   cd "C:\path\to\vanilla-finance-folder"
+   cd "path\to\vanilla-finance-folder"
    ```
 3. Run the batch script:
    ```cmd
