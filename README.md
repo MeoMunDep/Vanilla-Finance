@@ -82,8 +82,9 @@ Before running the bot, make sure you have installed:
   "proxyRotationInterval": 2,
   "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
-  "howManyAccountsRunInOneTime": 10,
+  "howManyAccountsRunInOneTime": 100,
   "doTasks": true,
+  "howManyUpgrades": 5,
   "referralCodes": "10263300"
 }
 ```
